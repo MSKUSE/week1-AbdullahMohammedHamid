@@ -1,3 +1,3 @@
 # week1
-This is a week one starter code 
-Please write your name and ID here and push it to GitHub.
+Abdullah Mohammed Hamid Abdulaziz Abdo
+240717703
